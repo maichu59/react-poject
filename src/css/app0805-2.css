@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+body{
+    background-color: #eee;
+}
+.wrap{
+    width: 770px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 50px;
+}
+img{
+    width: 100%;
+    /* margin-bottom: 20px; */
+}
+p{
+    margin: 20px 0;
+}
+ul li{
+    /* list-style: none;
+    border: 1px solid red; */
+    margin-left: 20px;
+}

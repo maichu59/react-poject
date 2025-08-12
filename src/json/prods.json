@@ -1,0 +1,18 @@
+
+    [
+        {
+            "prodName":"商品1",
+            "prodPice":"1200",
+            "prodDesc":"商品1說明商品1說明"
+        },
+        {
+            "prodName":"商品2",
+            "prodPice":"1800",
+            "prodDesc":"商品2說明商品2說明"
+        },
+        {
+            "prodName":"商品3",
+            "prodPice":"2000",
+            "prodDesc":"商品3說明商品3說明"
+        }
+    ]
