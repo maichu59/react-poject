@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './MyApp'
+import App from './pages/App0819b'
 
 
 // import './index.css'
